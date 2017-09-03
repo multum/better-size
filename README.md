@@ -12,7 +12,7 @@ afterChange | function | null
 
 ### Methods
 
-Method | 
+Method | -
 ------ | ---- 
 elements | string | $(this).find(">div") 
 childClass | string | "content"
