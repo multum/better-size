@@ -16,7 +16,7 @@ Method | Argument | Description
 ------ | -------- | -------------------------------------------
 resize |  | Recalculation of height of elements
 ```javascript
-     $(".current_items").betterSize("resize")
+$(".current_items").betterSize("resize")
 ```
 ### [Demo](https://codepen.io/JoyZi/pen/zdKQYw)
 
