@@ -12,12 +12,12 @@ afterChange | function | null
 
 ### Methods
 
-Method | -
------- | ---- 
-elements | string | $(this).find(">div") 
-childClass | string | "content"
-afterChange | function | null
-
+Method | Argument | Description
+------ | -------- | -------------------------------------------
+resize |  | Recalculation of height of elements
+```javascript
+     $(".current_items").betterSize("resize")
+```
 ### [Demo](https://codepen.io/JoyZi/pen/zdKQYw)
 
 ### Инициализация после подключения самого плагина
